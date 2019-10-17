@@ -1,2 +1,2 @@
 # RPAUIPath
-Robotic process automation practices using UIPath
+Robotic process automation practice projects/assignments using UIPath
